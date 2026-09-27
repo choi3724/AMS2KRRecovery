@@ -1,0 +1,17 @@
+{
+  "version": "0.1",
+  "compiler": "Windows .NET Framework v4.0.30319 csc",
+  "public_test_hooks": false,
+  "assets": {
+    "AMS2KRRecovery-0.1.exe": {
+      "bytes": 195584,
+      "sha256": "DBF0323372CB7F44EA58AF0347F1FBE05F7C8406884CBFAAB71EDF290E95ADCF"
+    },
+    "AMS2KRRecovery-0.1.zip": {
+      "bytes": 158522,
+      "sha256": "06B41424DDC3CEF5AF5E438B61E2317F8DE1A068D333E3776E3FA29566614D20"
+    }
+  },
+  "actual_depot_manifest_entries_parsed": 8155,
+  "actual_steam_restore_tested": false
+}

@@ -1,0 +1,412 @@
+{
+  "status": "PASS",
+  "managed_paths": 678,
+  "manifests": 81,
+  "results": [
+    {
+      "source": "0.6.84\\AMS2 한국어 패치 CB 0.6.84\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.84\\AMS2 한국어 패치 CB 0.6.84 (2)\\AMS2 한국어 패치 CB 0.6.84\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.85\\AMS2 한국어 패치 CB 0.6.85\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.86\\AMS2 한국어 패치 CB 0.6.86\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.87\\AMS2 한국어 패치 CB 0.6.87\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.7\\AMS2 한국어 패치 CB 0.7\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.8\\AMS2 한국어 패치 CB 0.8\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.8\\AMS2 한국어 패치 CB 0.8-pre-backup-fix\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.81\\AMS2 한국어 패치 오픈베타 0.81\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.82\\AMS2 한국어 패치 오픈베타 0.82\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83\\AMS2 한국어 패치 오픈베타 0.83\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.1\\AMS2 한국어 패치 오픈베타 0.83.1\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.2\\AMS2 한국어 패치 오픈베타 0.83.2\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.3\\AMS2 한국어 패치 오픈베타 0.83.3\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.84\\AMS2 한국어 패치 오픈베타 0.84\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.85\\AMS2 한국어 패치 오픈베타 0.85\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.86\\AMS2 한국어 패치 오픈베타 0.86\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.87\\AMS2 한국어 패치 오픈베타 0.87\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.88\\AMS2 한국어 패치 오픈베타 0.88\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.88.1\\AMS2 한국어 패치 오픈베타 0.88.1\\manifest\\direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "AMS2 한국어 패치 CB 0.6.4\\manifest\\direct-files.tsv",
+      "count": 448,
+      "missing": []
+    },
+    {
+      "source": "AMS2 한국어 패치 CB 0.6.5\\manifest\\direct-files.tsv",
+      "count": 448,
+      "missing": []
+    },
+    {
+      "source": "AMS2 한국어 패치 CB 0.6.6\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "AMS2 한국어 패치 CB 0.6.82\\manifest\\direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.06-RC\\manifest\\direct-files.tsv",
+      "count": 419,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.2\\manifest\\direct-files.tsv",
+      "count": 328,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.1\\manifest\\direct-files.tsv",
+      "count": 419,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.2\\manifest\\direct-files.tsv",
+      "count": 420,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.2-Hotfix\\manifest\\direct-files.tsv",
+      "count": 420,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.3\\manifest\\direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6-Pretendard\\manifest\\direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.1-Pretendard\\manifest\\direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.2-Hotfix-Pretendard\\manifest\\direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.2-Pretendard\\manifest\\direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.3-Pretendard\\manifest\\direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-KR-BETA-0.3-RC\\manifest\\direct-files.tsv",
+      "count": 328,
+      "missing": []
+    },
+    {
+      "source": "AMS2-KR-BETA-0.4-RC\\manifest\\direct-files.tsv",
+      "count": 327,
+      "missing": []
+    },
+    {
+      "source": "AMS2-KR-BETA-0.5-RC\\manifest\\direct-files.tsv",
+      "count": 327,
+      "missing": []
+    },
+    {
+      "source": "AMS2 한국어 패치 CB 0.6.4.zip!AMS2 한국어 패치 CB 0.6.4/manifest/direct-files.tsv",
+      "count": 448,
+      "missing": []
+    },
+    {
+      "source": "AMS2 한국어 패치 CB 0.6.82.zip!AMS2 한국어 패치 CB 0.6.82/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.2.zip!manifest/direct-files.tsv",
+      "count": 328,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.3.zip!AMS2-Korean-Closed-Beta-0.5.3/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6-Pretendard.zip!AMS2-Korean-Closed-Beta-0.6-Pretendard/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.1.zip!AMS2-Korean-Closed-Beta-0.6.1-Pretendard/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.2-Hotfix.zip!AMS2-Korean-Closed-Beta-0.6.2-Hotfix-Pretendard/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.2-Pretendard.zip!AMS2-Korean-Closed-Beta-0.6.2-Pretendard/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.6.3-Pretendard.zip!AMS2-Korean-Closed-Beta-0.6.3-Pretendard/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "AMS2-KR-BETA-0.3-RC.zip!AMS2-KR-BETA-0.3-RC/manifest/direct-files.tsv",
+      "count": 328,
+      "missing": []
+    },
+    {
+      "source": "AMS2-KR-BETA-0.4-RC.zip!AMS2-KR-BETA-0.4-RC/manifest/direct-files.tsv",
+      "count": 327,
+      "missing": []
+    },
+    {
+      "source": "AMS2-KR-BETA-0.5-RC.zip!AMS2-KR-BETA-0.5-RC/manifest/direct-files.tsv",
+      "count": 327,
+      "missing": []
+    },
+    {
+      "source": "0.6.3\\AMS2-Korean-Closed-Beta-0.6.3-Pretendard.zip!AMS2-Korean-Closed-Beta-0.6.3-Pretendard/manifest/direct-files.tsv",
+      "count": 442,
+      "missing": []
+    },
+    {
+      "source": "0.6.4\\AMS2 한국어 패치 CB 0.6.4.zip!AMS2 한국어 패치 CB 0.6.4/manifest/direct-files.tsv",
+      "count": 448,
+      "missing": []
+    },
+    {
+      "source": "0.6.5\\AMS2 한국어 패치 CB 0.6.5.zip!AMS2 한국어 패치 CB 0.6.5/manifest/direct-files.tsv",
+      "count": 448,
+      "missing": []
+    },
+    {
+      "source": "0.6.6\\AMS2 한국어 패치 CB 0.6.6.zip!AMS2 한국어 패치 CB 0.6.6/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.82\\AMS2 한국어 패치 CB 0.6.82.zip!AMS2 한국어 패치 CB 0.6.82/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.83\\AMS2 한국어 패치 CB 0.6.83.zip!AMS2 한국어 패치 CB 0.6.83/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.84\\AMS2 한국어 패치 CB 0.6.84.zip!AMS2 한국어 패치 CB 0.6.84/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.85\\AMS2 한국어 패치 CB 0.6.85.zip!AMS2 ╟╤▒╣╛ε ╞╨─í CB 0.6.85/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.86\\AMS2 한국어 패치 CB 0.6.86.zip!AMS2 한국어 패치 CB 0.6.86/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.6.87\\AMS2 한국어 패치 CB 0.6.87.zip!AMS2 한국어 패치 CB 0.6.87/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.7\\AMS2.CB.0.7.zip!AMS2 한국어 패치 CB 0.7/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.8\\AMS2 한국어 패치 CB 0.8.zip!AMS2 한국어 패치 CB 0.8/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.81\\AMS2 한국어 패치 오픈베타 0.81.zip!AMS2 한국어 패치 오픈베타 0.81/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    },
+    {
+      "source": "0.82\\AMS2 한국어 패치 오픈베타 0.82.zip!AMS2 한국어 패치 오픈베타 0.82/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83\\AMS2 한국어 패치 오픈베타 0.83.zip!AMS2 한국어 패치 오픈베타 0.83/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83\\AMS2.0.83.zip!AMS2 한국어 패치 오픈베타 0.83/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.1\\AMS2 한국어 패치 오픈베타 0.83.1.zip!AMS2 한국어 패치 오픈베타 0.83.1/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.1\\AMS2.0.83.1.zip!AMS2 한국어 패치 오픈베타 0.83.1/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.2\\AMS2.0.83.2.zip!AMS2 한국어 패치 오픈베타 0.83.2/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.83.3\\AMS2.0.83.3.zip!AMS2 한국어 패치 오픈베타 0.83.3/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.84\\AMS2.0.84.zip!AMS2 한국어 패치 오픈베타 0.84/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.85\\AMS2.0.85.zip!AMS2 한국어 패치 오픈베타 0.85/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.86\\AMS2.0.86.zip!AMS2 한국어 패치 오픈베타 0.86/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.87\\AMS2.0.87.zip!AMS2 한국어 패치 오픈베타 0.87/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.88\\AMS2.0.88.zip!AMS2 한국어 패치 오픈베타 0.88/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "0.88.1\\AMS2.0.88.1.zip!AMS2 한국어 패치 오픈베타 0.88.1/manifest/direct-files.tsv",
+      "count": 465,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.06-RC\\AMS2-Korean-Closed-Beta-0.6-RC.zip!AMS2-Korean-Closed-Beta-0.6-RC/manifest/direct-files.tsv",
+      "count": 419,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.1\\AMS2-Korean-Closed-Beta-0.5.1.zip!AMS2-Korean-Closed-Beta-0.5.1/manifest/direct-files.tsv",
+      "count": 419,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.2\\AMS2-Korean-Closed-Beta-0.5.2.zip!AMS2-Korean-Closed-Beta-0.5.2/manifest/direct-files.tsv",
+      "count": 420,
+      "missing": []
+    },
+    {
+      "source": "AMS2-Korean-Closed-Beta-0.5.2-Hotfix\\AMS2-Korean-Closed-Beta-0.5.2-Hotfix.zip!AMS2-Korean-Closed-Beta-0.5.2-Hotfix/manifest/direct-files.tsv",
+      "count": 420,
+      "missing": []
+    },
+    {
+      "source": "AMS2.CB.0.6.8.zip!AMS2 한국어 패치 CB 0.6.8/manifest/direct-files.tsv",
+      "count": 449,
+      "missing": []
+    }
+  ]
+}
